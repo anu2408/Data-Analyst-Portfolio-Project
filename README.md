@@ -7,7 +7,10 @@ A fraud detection engine built entirely in MySQL for a simulated Indian payment 
 
 Pattern 8 — Merchant Collusion: the top 5 users by volume account for 99%+ of total transaction value at several merchants, a clear money-laundering signature.
 
-![Pattern 8 - Merchant Collusion query output](screenshots/pattern-08-merchant-collusion.png)
+<img width="1160" height="627" alt="image" src="https://github.com/user-attachments/assets/719d13a8-6f27-4b05-999a-9d21aac1aa9d" />
+<img width="1160" height="627" alt="image" src="https://github.com/user-attachments/assets/2f412615-6860-4449-b375-c022bd7aefa4" />
+
+
 
 ## Fraud Patterns Detected
 
