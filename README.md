@@ -42,7 +42,7 @@ Pattern 8 — Merchant Collusion: the top 5 users by volume account for 99%+ of 
 
 ```
 ├── README.md
-├── RedFlag_ParvathyM.sql      # All 12 fraud detection queries
+├── RedFlag_Anu.sql      # All 12 fraud detection queries
 └── screenshots/                # Query output screenshots
 ```
 
